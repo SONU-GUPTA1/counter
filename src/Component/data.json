@@ -1,0 +1,57 @@
+[
+
+    {
+    
+    "productname":"iphone",
+    
+    "price":80000,
+    
+    "description":"this is a iphone",
+    
+    "image":"https://www.apple.com/in/shop/buy-iphone/iphone-13-pro/6.1-inch-display-128gb-sierra-blue",
+    
+    "rating":4.9
+    
+    },
+    
+    {
+    
+    "productname":"poco",
+    
+    "price":14000,
+    
+    "description":"this is a poco",
+    
+    "image":"https://www.tradeinn.com/f/13877/138770436_3/xiaomi-pocophone-4-pro-6gb-128gb-6.6-smartphone.jpg",
+    
+    "rating":4.0
+    
+    },
+    
+    {
+    
+    "productname":"one plus",
+    
+    "price":40000,
+    
+    "description":"this is a one plus",
+    
+    "image":"http://cdn.shopify.com/s/files/1/0593/9727/5805/products/Arcticsky_2080a_euna_1200x1200.png?v=1631607581",
+    
+    "rating":4.2
+    
+    },
+    
+    {
+    
+    "productname":"samsung j6",
+    
+    "price":11000,
+    
+    "description":"this is a samsung j6",
+    
+    "image":"https://images.samsung.com/is/image/samsung/hk-en-galaxy-j6-j600-sm-j600gzkhtgy-featureblack-105543973?$PD_GALLERY_JPG$",
+    
+    "rating":3.5
+    
+    }]
